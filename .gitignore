@@ -1,0 +1,8 @@
+# This repository is public. Data never goes in it.
+private/
+*.sqlite
+*.sqlite3
+*.db
+*-backup-*.zip
+.DS_Store
+node_modules/
